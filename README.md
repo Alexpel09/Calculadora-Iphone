@@ -1,3 +1,6 @@
+
+![calculadora](https://github.com/Alexpel09/Calculadora-Iphone/assets/135204896/0ebce6b2-fa67-49fd-9b9a-277fa9f0ced1)
+
 Descrição:
 O projeto Calculadora-Iphone é uma implementação simples de uma calculadora inspirada na calculadora do iPhone. Esta calculadora foi desenvolvida em Python utilizando a biblioteca flet para criar uma interface gráfica intuitiva e funcional. A calculadora oferece as operações matemáticas básicas, incluindo adição, subtração, multiplicação e divisão, além de suportar números negativos e porcentagens. O projeto também inclui uma funcionalidade de histórico de cálculos, permitindo que os usuários visualizem suas operações anteriores.
 
